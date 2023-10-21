@@ -3,4 +3,4 @@
 
 Contenidos:
 * Hola Mundo en Python
-* * README.md
+* README.md
